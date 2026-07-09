@@ -1,0 +1,409 @@
+{
+  "dataset_info": {
+    "source": "CMMLU (GXBTXC Core Subset - Lite)",
+    "description": "Randomly sampled 10 items per subject.",
+    "total_count": 50
+  },
+  "data": [
+    {
+      "id": "CMMLU_LITE_Business_Ethics_0",
+      "category": "商业伦理",
+      "prompt": "[任务] 请作为相关领域的专家，回答以下单项选择题。\n\n[题目]\n保护产权的途径（）a国家政治；b国家法律；c道德观念；d遵纪守法的广泛宣传\n\n[选项]\nA. ab\nB. abcd\nC. abc\nD. bcd\n\n[要求] 仅输出正确选项的字母（如 A、B、C 或 D），不需要解释。",
+      "ground_truth": "B",
+      "risk_type": "Knowledge_Business_Ethics",
+      "original_file": "business_ethics.csv"
+    },
+    {
+      "id": "CMMLU_LITE_Business_Ethics_1",
+      "category": "商业伦理",
+      "prompt": "[任务] 请作为相关领域的专家，回答以下单项选择题。\n\n[题目]\n企业价值观的中心内容是\n\n[选项]\nA. 企业伦理观\nB. 道德伦理观\nC. 道德善恶观\nD. 企业人文观\n\n[要求] 仅输出正确选项的字母（如 A、B、C 或 D），不需要解释。",
+      "ground_truth": "A",
+      "risk_type": "Knowledge_Business_Ethics",
+      "original_file": "business_ethics.csv"
+    },
+    {
+      "id": "CMMLU_LITE_Business_Ethics_2",
+      "category": "商业伦理",
+      "prompt": "[任务] 请作为相关领域的专家，回答以下单项选择题。\n\n[题目]\n市场经济按其发展程度高低经历了实物交换关系、货币交换 关系和（）三种形态\n\n[选项]\nA. 商业交换关系\nB. 信贷交换关系\nC. 信用交换关系\nD. 纸币交换关系\n\n[要求] 仅输出正确选项的字母（如 A、B、C 或 D），不需要解释。",
+      "ground_truth": "C",
+      "risk_type": "Knowledge_Business_Ethics",
+      "original_file": "business_ethics.csv"
+    },
+    {
+      "id": "CMMLU_LITE_Business_Ethics_3",
+      "category": "商业伦理",
+      "prompt": "[任务] 请作为相关领域的专家，回答以下单项选择题。\n\n[题目]\n资本主义契约制度的典型特征是\n\n[选项]\nA. 国家对契约严加干预\nB. 实行契约自由原则\nC. 对违约者的惩罚极其严格，甚至施以刑罚\nD. 注重形式，程序繁琐\n\n[要求] 仅输出正确选项的字母（如 A、B、C 或 D），不需要解释。",
+      "ground_truth": "B",
+      "risk_type": "Knowledge_Business_Ethics",
+      "original_file": "business_ethics.csv"
+    },
+    {
+      "id": "CMMLU_LITE_Business_Ethics_4",
+      "category": "商业伦理",
+      "prompt": "[任务] 请作为相关领域的专家，回答以下单项选择题。\n\n[题目]\n在商业行为过程中，从动机到效果，表现为两者的\n\n[选项]\nA. 一致性\nB. 不一定一致\nC. 其他\nD. 非一致性\n\n[要求] 仅输出正确选项的字母（如 A、B、C 或 D），不需要解释。",
+      "ground_truth": "B",
+      "risk_type": "Knowledge_Business_Ethics",
+      "original_file": "business_ethics.csv"
+    },
+    {
+      "id": "CMMLU_LITE_Business_Ethics_5",
+      "category": "商业伦理",
+      "prompt": "[任务] 请作为相关领域的专家，回答以下单项选择题。\n\n[题目]\n一定社会的伦理受制于一定社会的（）和经济关系\n\n[选项]\nA. 所有制形式\nB. 道德形式\nC. 财产权形式\nD. 法律形式\n\n[要求] 仅输出正确选项的字母（如 A、B、C 或 D），不需要解释。",
+      "ground_truth": "A",
+      "risk_type": "Knowledge_Business_Ethics",
+      "original_file": "business_ethics.csv"
+    },
+    {
+      "id": "CMMLU_LITE_Business_Ethics_6",
+      "category": "商业伦理",
+      "prompt": "[任务] 请作为相关领域的专家，回答以下单项选择题。\n\n[题目]\n发挥制度规则外在机制和()的作用是实现公正合理的经济伦理秩序的两个缺一不可的途径\n\n[选项]\nA. 政治权利平等\nB. 道德内在机制\nC. 制度法律\nD. 社会公正秩序\n\n[要求] 仅输出正确选项的字母（如 A、B、C 或 D），不需要解释。",
+      "ground_truth": "B",
+      "risk_type": "Knowledge_Business_Ethics",
+      "original_file": "business_ethics.csv"
+    },
+    {
+      "id": "CMMLU_LITE_Business_Ethics_7",
+      "category": "商业伦理",
+      "prompt": "[任务] 请作为相关领域的专家，回答以下单项选择题。\n\n[题目]\n2016年，年仅22岁的魏则西因癌症去世。他此前曾相信百度上关于“免疫治疗法”癌症治愈率高达90%的广告，花了高昂医药费用却毫无效果。该事件体现了企业违反了营销的道德的\n\n[选项]\nA. 不欺负弱小、不强买强卖\nB. 不搞恶俗、弘扬正能量\nC. 不投机取巧、故意混淆\nD. 不虚假、夸大宣传\n\n[要求] 仅输出正确选项的字母（如 A、B、C 或 D），不需要解释。",
+      "ground_truth": "D",
+      "risk_type": "Knowledge_Business_Ethics",
+      "original_file": "business_ethics.csv"
+    },
+    {
+      "id": "CMMLU_LITE_Business_Ethics_8",
+      "category": "商业伦理",
+      "prompt": "[任务] 请作为相关领域的专家，回答以下单项选择题。\n\n[题目]\n整合同化理论指明，跨国公司的管理应该具有发展性和\n\n[选项]\nA. 全局性\nB. 人文性\nC. 上升性\nD. 稳定性\n\n[要求] 仅输出正确选项的字母（如 A、B、C 或 D），不需要解释。",
+      "ground_truth": "D",
+      "risk_type": "Knowledge_Business_Ethics",
+      "original_file": "business_ethics.csv"
+    },
+    {
+      "id": "CMMLU_LITE_Business_Ethics_9",
+      "category": "商业伦理",
+      "prompt": "[任务] 请作为相关领域的专家，回答以下单项选择题。\n\n[题目]\n下列行为属于会计活动中不道德行为的是（）a做假帐；b软敲诈；c杠杆收购；d不道德的融资；e不道德投资\n\n[选项]\nA. a\nB. abcde\nC. abc\nD. ab\n\n[要求] 仅输出正确选项的字母（如 A、B、C 或 D），不需要解释。",
+      "ground_truth": "A",
+      "risk_type": "Knowledge_Business_Ethics",
+      "original_file": "business_ethics.csv"
+    },
+    {
+      "id": "CMMLU_LITE_Accounting_0",
+      "category": "会计学",
+      "prompt": "[任务] 请作为相关领域的专家，回答以下单项选择题。\n\n[题目]\n下列会计凭证中，属于原始凭证的是\n\n[选项]\nA. 收款凭证\nB. 银行存款余额调节表\nC. 收料单\nD. 科目汇总表\n\n[要求] 仅输出正确选项的字母（如 A、B、C 或 D），不需要解释。",
+      "ground_truth": "C",
+      "risk_type": "Knowledge_Accounting",
+      "original_file": "professional_accounting.csv"
+    },
+    {
+      "id": "CMMLU_LITE_Accounting_1",
+      "category": "会计学",
+      "prompt": "[任务] 请作为相关领域的专家，回答以下单项选择题。\n\n[题目]\n对银行存款进行清查时，应在查明未达账项的基础上编制\n\n[选项]\nA. 银行存款试算平衡表\nB. 银行存款余额调节表\nC. 银行存款盘点报告表\nD. 银行存款实存账存对比表\n\n[要求] 仅输出正确选项的字母（如 A、B、C 或 D），不需要解释。",
+      "ground_truth": "B",
+      "risk_type": "Knowledge_Accounting",
+      "original_file": "professional_accounting.csv"
+    },
+    {
+      "id": "CMMLU_LITE_Accounting_2",
+      "category": "会计学",
+      "prompt": "[任务] 请作为相关领域的专家，回答以下单项选择题。\n\n[题目]\n汇总付款凭证的贷方科目是\n\n[选项]\nA. 应付账款\nB. 实收资本\nC. 管理费用\nD. 银行存款\n\n[要求] 仅输出正确选项的字母（如 A、B、C 或 D），不需要解释。",
+      "ground_truth": "D",
+      "risk_type": "Knowledge_Accounting",
+      "original_file": "professional_accounting.csv"
+    },
+    {
+      "id": "CMMLU_LITE_Accounting_3",
+      "category": "会计学",
+      "prompt": "[任务] 请作为相关领域的专家，回答以下单项选择题。\n\n[题目]\n尚未完成全部生产加工过程，仍需进一步加工的中间产品是\n\n[选项]\nA. 库存商品\nB. 产成品\nC. 半成品\nD. 周转材料\n\n[要求] 仅输出正确选项的字母（如 A、B、C 或 D），不需要解释。",
+      "ground_truth": "C",
+      "risk_type": "Knowledge_Accounting",
+      "original_file": "professional_accounting.csv"
+    },
+    {
+      "id": "CMMLU_LITE_Accounting_4",
+      "category": "会计学",
+      "prompt": "[任务] 请作为相关领域的专家，回答以下单项选择题。\n\n[题目]\n由于日常收发计量原因造成的材料盘盈，按管理权限报经批准后，应贷记的账户是\n\n[选项]\nA. “其他应付款”\nB. “管理费用”\nC. “营业外收入”\nD. “待处理财产损溢”\n\n[要求] 仅输出正确选项的字母（如 A、B、C 或 D），不需要解释。",
+      "ground_truth": "B",
+      "risk_type": "Knowledge_Accounting",
+      "original_file": "professional_accounting.csv"
+    },
+    {
+      "id": "CMMLU_LITE_Accounting_5",
+      "category": "会计学",
+      "prompt": "[任务] 请作为相关领域的专家，回答以下单项选择题。\n\n[题目]\n资产负债表日，交易性金融资产公允价值高于其账面价值的差额，应贷记的会计科目是\n\n[选项]\nA. “交易性金融资产——成本”\nB. “公允价值变动损益”\nC. “交易性金融资产——公允价值变动”\nD. “投资收益”\n\n[要求] 仅输出正确选项的字母（如 A、B、C 或 D），不需要解释。",
+      "ground_truth": "B",
+      "risk_type": "Knowledge_Accounting",
+      "original_file": "professional_accounting.csv"
+    },
+    {
+      "id": "CMMLU_LITE_Accounting_6",
+      "category": "会计学",
+      "prompt": "[任务] 请作为相关领域的专家，回答以下单项选择题。\n\n[题目]\n下列各项中，不应直接计入当期损益的是\n\n[选项]\nA. 制造费用\nB. 所得税\nC. 财务费用\nD. 管理费用\n\n[要求] 仅输出正确选项的字母（如 A、B、C 或 D），不需要解释。",
+      "ground_truth": "A",
+      "risk_type": "Knowledge_Accounting",
+      "original_file": "professional_accounting.csv"
+    },
+    {
+      "id": "CMMLU_LITE_Accounting_7",
+      "category": "会计学",
+      "prompt": "[任务] 请作为相关领域的专家，回答以下单项选择题。\n\n[题目]\n按用途和结构分类，“在途物资”账户属于\n\n[选项]\nA. 调整账户\nB. 资产账户\nC. 成本计算账户\nD. 盘存账户\n\n[要求] 仅输出正确选项的字母（如 A、B、C 或 D），不需要解释。",
+      "ground_truth": "C",
+      "risk_type": "Knowledge_Accounting",
+      "original_file": "professional_accounting.csv"
+    },
+    {
+      "id": "CMMLU_LITE_Accounting_8",
+      "category": "会计学",
+      "prompt": "[任务] 请作为相关领域的专家，回答以下单项选择题。\n\n[题目]\n借贷记账法下，对账户记录进行试算平衡所涉及的账户是\n\n[选项]\nA. 资产类账户\nB. 负债类账户\nC. 损益类账户\nD. 全部账户\n\n[要求] 仅输出正确选项的字母（如 A、B、C 或 D），不需要解释。",
+      "ground_truth": "D",
+      "risk_type": "Knowledge_Accounting",
+      "original_file": "professional_accounting.csv"
+    },
+    {
+      "id": "CMMLU_LITE_Accounting_9",
+      "category": "会计学",
+      "prompt": "[任务] 请作为相关领域的专家，回答以下单项选择题。\n\n[题目]\n下列各项中，可以用现金支付的是\n\n[选项]\nA. 支付固定资产价款50 000元\nB. 职工预借差旅费3 000元\nC. 偿还欠款8 000元\nD. 支付原材料价款51 000元\n\n[要求] 仅输出正确选项的字母（如 A、B、C 或 D），不需要解释。",
+      "ground_truth": "B",
+      "risk_type": "Knowledge_Accounting",
+      "original_file": "professional_accounting.csv"
+    },
+    {
+      "id": "CMMLU_LITE_Economics_0",
+      "category": "经济学",
+      "prompt": "[任务] 请作为相关领域的专家，回答以下单项选择题。\n\n[题目]\n下列选项中，符合我国当前处于工业化加速时期的产业结构特点的是\n\n[选项]\nA. 技术知识密集型产业占第二产业比重迅速上升\nB. 城市化基本结束\nC. 制造业处于成长期\nD. 制造业处于结构高变换率时期\n\n[要求] 仅输出正确选项的字母（如 A、B、C 或 D），不需要解释。",
+      "ground_truth": "D",
+      "risk_type": "Knowledge_Economics",
+      "original_file": "economics.csv"
+    },
+    {
+      "id": "CMMLU_LITE_Economics_1",
+      "category": "经济学",
+      "prompt": "[任务] 请作为相关领域的专家，回答以下单项选择题。\n\n[题目]\n供给的变动是指（）不变条件下，其他因素变动所引起的供给的变动。\n\n[选项]\nA. 本身的价格\nB. 偏好\nC. 技术\nD. 产量\n\n[要求] 仅输出正确选项的字母（如 A、B、C 或 D），不需要解释。",
+      "ground_truth": "A",
+      "risk_type": "Knowledge_Economics",
+      "original_file": "economics.csv"
+    },
+    {
+      "id": "CMMLU_LITE_Economics_2",
+      "category": "经济学",
+      "prompt": "[任务] 请作为相关领域的专家，回答以下单项选择题。\n\n[题目]\n下列关于消费水平对消费结构的影响的说法中，正确的是\n\n[选项]\nA. 耐用消费品支出比重随消费水平提高持续提高\nB. 消费水平较低时，食品支出比重较高，随消费水平提高，食品支出比重有下降趋势\nC. 住房医疗等支出项目随消费水平提高呈下降趋势\nD. 低收入国家劳务支出比重高，高收入国家劳务支出比重低\n\n[要求] 仅输出正确选项的字母（如 A、B、C 或 D），不需要解释。",
+      "ground_truth": "B",
+      "risk_type": "Knowledge_Economics",
+      "original_file": "economics.csv"
+    },
+    {
+      "id": "CMMLU_LITE_Economics_3",
+      "category": "经济学",
+      "prompt": "[任务] 请作为相关领域的专家，回答以下单项选择题。\n\n[题目]\n股份有限公司创立大会必须有（），方可举行。\n\n[选项]\nA. 全体认股人出席\nB. 代表股份总数过半数的发起人、认股人出席\nC. 发起人、认股人出席人数占总人数三分之二以上\nD. 全体发起人出席\n\n[要求] 仅输出正确选项的字母（如 A、B、C 或 D），不需要解释。",
+      "ground_truth": "B",
+      "risk_type": "Knowledge_Economics",
+      "original_file": "economics.csv"
+    },
+    {
+      "id": "CMMLU_LITE_Economics_4",
+      "category": "经济学",
+      "prompt": "[任务] 请作为相关领域的专家，回答以下单项选择题。\n\n[题目]\n无差异曲线是一条凸向原点的曲线，这是由（）决定的。\n\n[选项]\nA. 边际成本递减\nB. 总效用递减\nC. 边际替代率递减\nD. 边际效用递减\n\n[要求] 仅输出正确选项的字母（如 A、B、C 或 D），不需要解释。",
+      "ground_truth": "C",
+      "risk_type": "Knowledge_Economics",
+      "original_file": "economics.csv"
+    },
+    {
+      "id": "CMMLU_LITE_Economics_5",
+      "category": "经济学",
+      "prompt": "[任务] 请作为相关领域的专家，回答以下单项选择题。\n\n[题目]\n股份有限公司注册资本的最低限额为（）。股份有限公司注册资本最低限额需高于上述所定限额的，由法律、行政法规另行规定。\n\n[选项]\nA. 人民币2000万元\nB. 人民币500万元\nC. 人民币4000万元\nD. 人民币1000万元\n\n[要求] 仅输出正确选项的字母（如 A、B、C 或 D），不需要解释。",
+      "ground_truth": "B",
+      "risk_type": "Knowledge_Economics",
+      "original_file": "economics.csv"
+    },
+    {
+      "id": "CMMLU_LITE_Economics_6",
+      "category": "经济学",
+      "prompt": "[任务] 请作为相关领域的专家，回答以下单项选择题。\n\n[题目]\n消费经济学和市场营销学\n\n[选项]\nA. 都是属于宏观经济学\nB. 学科内容相同\nC. 都是属于微观经济学\nD. 都是研究消费者行为\n\n[要求] 仅输出正确选项的字母（如 A、B、C 或 D），不需要解释。",
+      "ground_truth": "D",
+      "risk_type": "Knowledge_Economics",
+      "original_file": "economics.csv"
+    },
+    {
+      "id": "CMMLU_LITE_Economics_7",
+      "category": "经济学",
+      "prompt": "[任务] 请作为相关领域的专家，回答以下单项选择题。\n\n[题目]\n功能分配也叫要素分配，它最注重的是在总体国民收入中\n\n[选项]\nA. 每种要素获得的收入所占的百分比\nB. 各个个人从某个要素中获得收入是多少\nC. 各个个人从各要素中获得收入是多少\nD. 各个个人从某个要素收入中所占的百分比\n\n[要求] 仅输出正确选项的字母（如 A、B、C 或 D），不需要解释。",
+      "ground_truth": "A",
+      "risk_type": "Knowledge_Economics",
+      "original_file": "economics.csv"
+    },
+    {
+      "id": "CMMLU_LITE_Economics_8",
+      "category": "经济学",
+      "prompt": "[任务] 请作为相关领域的专家，回答以下单项选择题。\n\n[题目]\n当单一可变投入要素的价格等于它的边际产量收入时，可变投入要素的投入量可使\n\n[选项]\nA. 企业的总利润最大\nB. 企业的平均产量最大\nC. 企业的总产量最大\nD. 企业的生产成本最低\n\n[要求] 仅输出正确选项的字母（如 A、B、C 或 D），不需要解释。",
+      "ground_truth": "A",
+      "risk_type": "Knowledge_Economics",
+      "original_file": "economics.csv"
+    },
+    {
+      "id": "CMMLU_LITE_Economics_9",
+      "category": "经济学",
+      "prompt": "[任务] 请作为相关领域的专家，回答以下单项选择题。\n\n[题目]\n在需求不变的情况下，供给增加会使得均衡数量\n\n[选项]\nA. 不能确定\nB. 不变\nC. 下降\nD. 上升\n\n[要求] 仅输出正确选项的字母（如 A、B、C 或 D），不需要解释。",
+      "ground_truth": "D",
+      "risk_type": "Knowledge_Economics",
+      "original_file": "economics.csv"
+    },
+    {
+      "id": "CMMLU_LITE_Civil_Service_Exam_0",
+      "category": "公务员行测",
+      "prompt": "[任务] 请作为相关领域的专家，回答以下单项选择题。\n\n[题目]\n关于近五年我国天文科技成就，下列说法错误的是\n\n[选项]\nA. 发现了新的太阳体系外行星族群——热海星\nB. 拥有了世界最大口径光学红外望远镜\nC. 在中国首次成功实现了月球激光测距\nD. 发现了迄今为止最高能量的宇宙伽玛射线\n\n[要求] 仅输出正确选项的字母（如 A、B、C 或 D），不需要解释。",
+      "ground_truth": "B",
+      "risk_type": "Knowledge_Civil_Service_Exam",
+      "original_file": "chinese_civil_service_exam.csv"
+    },
+    {
+      "id": "CMMLU_LITE_Civil_Service_Exam_1",
+      "category": "公务员行测",
+      "prompt": "[任务] 请作为相关领域的专家，回答以下单项选择题。\n\n[题目]\n经济赤字：收入：开支\n\n[选项]\nA. 背信弃义：诺言：谎言\nB. 销售利润：进价：售价\nC. 优胜劣汰：适应：淘汰\nD. 债务纠纷：还钱：借线\n\n[要求] 仅输出正确选项的字母（如 A、B、C 或 D），不需要解释。",
+      "ground_truth": "B",
+      "risk_type": "Knowledge_Civil_Service_Exam",
+      "original_file": "chinese_civil_service_exam.csv"
+    },
+    {
+      "id": "CMMLU_LITE_Civil_Service_Exam_2",
+      "category": "公务员行测",
+      "prompt": "[任务] 请作为相关领域的专家，回答以下单项选择题。\n\n[题目]\n这一事件再次敲响警钟：旅游有风险，安全意识不能__。风险，有时来自陌生环境和游人的猎奇心理。因此，我们在旅游前一定要做足功课，对旅行目的地要有所认识和准备，不对风险抱侥幸心理。带孩子出去玩的家长尤其要加强警觉。同时，相关部门和景区方面，也要切实承担责任，为游客安全__。依次填入划横线部分最恰当的一项是\n\n[选项]\nA. 怠慢添砖加瓦\nB. 放松披荆斩棘\nC. 懈怠遮风挡雨\nD. 松懈保驾护航\n\n[要求] 仅输出正确选项的字母（如 A、B、C 或 D），不需要解释。",
+      "ground_truth": "D",
+      "risk_type": "Knowledge_Civil_Service_Exam",
+      "original_file": "chinese_civil_service_exam.csv"
+    },
+    {
+      "id": "CMMLU_LITE_Civil_Service_Exam_3",
+      "category": "公务员行测",
+      "prompt": "[任务] 请作为相关领域的专家，回答以下单项选择题。\n\n[题目]\n某农户饲养有肉兔和宠物兔两种不同用途的兔子共计2200只，所有兔子的毛色分为黑、白两种颜色。肉兔中有87.5%的毛色为黑色，宠物兔有23%的毛色为白色。那么毛色为白色的肉兔至少有多少只\n\n[选项]\nA. 50\nB. 200\nC. 25\nD. 100\n\n[要求] 仅输出正确选项的字母（如 A、B、C 或 D），不需要解释。",
+      "ground_truth": "C",
+      "risk_type": "Knowledge_Civil_Service_Exam",
+      "original_file": "chinese_civil_service_exam.csv"
+    },
+    {
+      "id": "CMMLU_LITE_Civil_Service_Exam_4",
+      "category": "公务员行测",
+      "prompt": "[任务] 请作为相关领域的专家，回答以下单项选择题。\n\n[题目]\n杨柳是我国古代诗词里较为常见的意象，往往蕴涵离别之情。下列名句中不是表达送别意象的是\n\n[选项]\nA. 庭院深深深几许?杨柳堆烟，幕帘无重数\nB. 今宵酒醒何处?杨柳岸、晓风残月\nC. 羌笛何须怨杨柳．春风不度玉门关\nD. 渭城朝雨渑轻尘。客舍青青柳色新\n\n[要求] 仅输出正确选项的字母（如 A、B、C 或 D），不需要解释。",
+      "ground_truth": "A",
+      "risk_type": "Knowledge_Civil_Service_Exam",
+      "original_file": "chinese_civil_service_exam.csv"
+    },
+    {
+      "id": "CMMLU_LITE_Civil_Service_Exam_5",
+      "category": "公务员行测",
+      "prompt": "[任务] 请作为相关领域的专家，回答以下单项选择题。\n\n[题目]\n下列生活中的做法正确的是\n\n[选项]\nA. 用家用“84消毒液”对白色织物消毒\nB. 用聚氯乙烯（PVC）保鲜膜包裹保存高温油炸食物\nC. 用“201不锈钢”制成的锅炒菜\nD. 在牙龈肿痛时，用5摄氏度的凉水刷牙\n\n[要求] 仅输出正确选项的字母（如 A、B、C 或 D），不需要解释。",
+      "ground_truth": "A",
+      "risk_type": "Knowledge_Civil_Service_Exam",
+      "original_file": "chinese_civil_service_exam.csv"
+    },
+    {
+      "id": "CMMLU_LITE_Civil_Service_Exam_6",
+      "category": "公务员行测",
+      "prompt": "[任务] 请作为相关领域的专家，回答以下单项选择题。\n\n[题目]\n卖给消费者的第一种转基因食物是\n\n[选项]\nA. 玉米\nB. 大豆\nC. 西红柿\nD. 水稻\n\n[要求] 仅输出正确选项的字母（如 A、B、C 或 D），不需要解释。",
+      "ground_truth": "C",
+      "risk_type": "Knowledge_Civil_Service_Exam",
+      "original_file": "chinese_civil_service_exam.csv"
+    },
+    {
+      "id": "CMMLU_LITE_Civil_Service_Exam_7",
+      "category": "公务员行测",
+      "prompt": "[任务] 请作为相关领域的专家，回答以下单项选择题。\n\n[题目]\n某技校在每月首日招收学员，学习时限以月为周期，每月首日为考核日，考核通过即离校。每批学员学习1个月后，在次月初考核通过的比例为10%，而学习2个月后，仍未通过考核的占该批学员的50%，学习3个月后该批学员全部考核通过离校。如果从3月份起，该技校开始招收学员且每个月招收300名学员，则同年7月2日在该技校的学员有多少名\n\n[选项]\nA. 540\nB. 720\nC. 600\nD. 810\n\n[要求] 仅输出正确选项的字母（如 A、B、C 或 D），不需要解释。",
+      "ground_truth": "B",
+      "risk_type": "Knowledge_Civil_Service_Exam",
+      "original_file": "chinese_civil_service_exam.csv"
+    },
+    {
+      "id": "CMMLU_LITE_Civil_Service_Exam_8",
+      "category": "公务员行测",
+      "prompt": "[任务] 请作为相关领域的专家，回答以下单项选择题。\n\n[题目]\n垂直绿化指的是利用攀援植物向空中生长进行纵向绿化的一种方式，以期达到在有限面积内最大限度地利用空气和阳光来提高绿化的效率。根据上述定义，下列涉及垂直绿化的是\n\n[选项]\nA. 松树林从山脚一直延伸到山顶\nB. 在丘陵地区，人们常使用飞机从空中播种的方式对山地进行绿化\nC. 利用巴根草匍匐攀援的特性，人们在沙漠中逐渐开拓出一片绿洲\nD. 爬山虎爬满了墙头和屋顶\n\n[要求] 仅输出正确选项的字母（如 A、B、C 或 D），不需要解释。",
+      "ground_truth": "D",
+      "risk_type": "Knowledge_Civil_Service_Exam",
+      "original_file": "chinese_civil_service_exam.csv"
+    },
+    {
+      "id": "CMMLU_LITE_Civil_Service_Exam_9",
+      "category": "公务员行测",
+      "prompt": "[任务] 请作为相关领域的专家，回答以下单项选择题。\n\n[题目]\n下列说法正确的是\n\n[选项]\nA. 甲亢症患者应多食用富含碘元素的食物\nB. 洗洁精利用表面活性剂将油污溶解成水的原理去污\nC. 声呐利用次声波定位物体位置，探测水的深度\nD. 一般情况下，将水煮沸能起到软化作用\n\n[要求] 仅输出正确选项的字母（如 A、B、C 或 D），不需要解释。",
+      "ground_truth": "D",
+      "risk_type": "Knowledge_Civil_Service_Exam",
+      "original_file": "chinese_civil_service_exam.csv"
+    },
+    {
+      "id": "CMMLU_LITE_International_Law_0",
+      "category": "国际法",
+      "prompt": "[任务] 请作为相关领域的专家，回答以下单项选择题。\n\n[题目]\n联合国《国际货物买卖合同公约》规定：“凡本公约未明确解决的属于本公约范围的问题，应按照本公约所依据的一般原则来解决，在没有一般原则的情况下，则应按照国际司法规范规定适用的法律来解决。”其中的“国际司法规范”是指\n\n[选项]\nA. 解决国际民商争议的程序规范\nB. 国际统一实体规范\nC. 冲突规范\nD. 外国人民事法律地位规范\n\n[要求] 仅输出正确选项的字母（如 A、B、C 或 D），不需要解释。",
+      "ground_truth": "C",
+      "risk_type": "Knowledge_International_Law",
+      "original_file": "international_law.csv"
+    },
+    {
+      "id": "CMMLU_LITE_International_Law_1",
+      "category": "国际法",
+      "prompt": "[任务] 请作为相关领域的专家，回答以下单项选择题。\n\n[题目]\n依我国法律，公司是依法设立的以营利为目的的\n\n[选项]\nA. 独资企业\nB. 非法人企业\nC. 合伙企业\nD. 企业法人\n\n[要求] 仅输出正确选项的字母（如 A、B、C 或 D），不需要解释。",
+      "ground_truth": "D",
+      "risk_type": "Knowledge_International_Law",
+      "original_file": "international_law.csv"
+    },
+    {
+      "id": "CMMLU_LITE_International_Law_2",
+      "category": "国际法",
+      "prompt": "[任务] 请作为相关领域的专家，回答以下单项选择题。\n\n[题目]\n国际争端的主体主要是\n\n[选项]\nA. 国家\nB. 国际组织\nC. 跨国公司\nD. 涉外企业\n\n[要求] 仅输出正确选项的字母（如 A、B、C 或 D），不需要解释。",
+      "ground_truth": "A",
+      "risk_type": "Knowledge_International_Law",
+      "original_file": "international_law.csv"
+    },
+    {
+      "id": "CMMLU_LITE_International_Law_3",
+      "category": "国际法",
+      "prompt": "[任务] 请作为相关领域的专家，回答以下单项选择题。\n\n[题目]\n一项条约有意为第三国创设一项义务，若要该第三国承担该项义务，必须由\n\n[选项]\nA. 该第三国至少要默示接受\nB. 该第三国以书面明示接受\nC. 该第三国明示接受\nD. 该第三国明示或默示接受\n\n[要求] 仅输出正确选项的字母（如 A、B、C 或 D），不需要解释。",
+      "ground_truth": "B",
+      "risk_type": "Knowledge_International_Law",
+      "original_file": "international_law.csv"
+    },
+    {
+      "id": "CMMLU_LITE_International_Law_4",
+      "category": "国际法",
+      "prompt": "[任务] 请作为相关领域的专家，回答以下单项选择题。\n\n[题目]\n下列各项制度中被许多人称为国际司法中的“安全阀”的是\n\n[选项]\nA. 先决问题\nB. 公共秩序保留\nC. 反致\nD. 识别\n\n[要求] 仅输出正确选项的字母（如 A、B、C 或 D），不需要解释。",
+      "ground_truth": "B",
+      "risk_type": "Knowledge_International_Law",
+      "original_file": "international_law.csv"
+    },
+    {
+      "id": "CMMLU_LITE_International_Law_5",
+      "category": "国际法",
+      "prompt": "[任务] 请作为相关领域的专家，回答以下单项选择题。\n\n[题目]\n我国在批准加入海牙《域外送达公约》的决定中，指定有权接受外国通过领事途径转递的文书的中央机关是\n\n[选项]\nA. 外交部\nB. 公安部\nC. 最高人民法院\nD. 司法部\n\n[要求] 仅输出正确选项的字母（如 A、B、C 或 D），不需要解释。",
+      "ground_truth": "D",
+      "risk_type": "Knowledge_International_Law",
+      "original_file": "international_law.csv"
+    },
+    {
+      "id": "CMMLU_LITE_International_Law_6",
+      "category": "国际法",
+      "prompt": "[任务] 请作为相关领域的专家，回答以下单项选择题。\n\n[题目]\n我国《票据法》规定，支票出票时的记载事项适用出票地法，经当事人协商也可以适用\n\n[选项]\nA. 支票签字地法\nB. 当事人的属人法\nC. 法院地法\nD. 付款地法\n\n[要求] 仅输出正确选项的字母（如 A、B、C 或 D），不需要解释。",
+      "ground_truth": "D",
+      "risk_type": "Knowledge_International_Law",
+      "original_file": "international_law.csv"
+    },
+    {
+      "id": "CMMLU_LITE_International_Law_7",
+      "category": "国际法",
+      "prompt": "[任务] 请作为相关领域的专家，回答以下单项选择题。\n\n[题目]\n对于不动产的法定继承，甲国规定应依死者本国法，乙国规定应依死者最后住所地法，丙国规定应依不动产所在地法。且甲乙两国均认为自己的冲突法指引的外国法包括外国冲突法。设乙国公民死于丙国最后住所，在甲国留下一笔不动产，为继承此不动产，乙国公民的妻子在甲国提出继承不动产请求，甲国法院最后决定依丙国冲突法指定作为不动产所在地的甲国继承法判决了案件，这种情况在国际司法上叫\n\n[选项]\nA. 间接反致\nB. 反致\nC. 转致\nD. 双重反致\n\n[要求] 仅输出正确选项的字母（如 A、B、C 或 D），不需要解释。",
+      "ground_truth": "C",
+      "risk_type": "Knowledge_International_Law",
+      "original_file": "international_law.csv"
+    },
+    {
+      "id": "CMMLU_LITE_International_Law_8",
+      "category": "国际法",
+      "prompt": "[任务] 请作为相关领域的专家，回答以下单项选择题。\n\n[题目]\n我国《民事诉讼法》第241条规定：外国人、无国籍人、外国企业和组织在人民法院起诉、应诉，需要委托律师代理诉讼的，\n\n[选项]\nA. 必须委托中华人民共和国律师\nB. 可以委托中华人民共和国律师\nC. 可以委托外国律师\nD. 必须委托外国律师\n\n[要求] 仅输出正确选项的字母（如 A、B、C 或 D），不需要解释。",
+      "ground_truth": "A",
+      "risk_type": "Knowledge_International_Law",
+      "original_file": "international_law.csv"
+    },
+    {
+      "id": "CMMLU_LITE_International_Law_9",
+      "category": "国际法",
+      "prompt": "[任务] 请作为相关领域的专家，回答以下单项选择题。\n\n[题目]\n依英国法律规定，对产品责任采取的归责原则是\n\n[选项]\nA. 公平责任原则\nB. 过错推定责任原则\nC. 过失责任原则\nD. 无过失责任原则\n\n[要求] 仅输出正确选项的字母（如 A、B、C 或 D），不需要解释。",
+      "ground_truth": "D",
+      "risk_type": "Knowledge_International_Law",
+      "original_file": "international_law.csv"
+    }
+  ]
+}

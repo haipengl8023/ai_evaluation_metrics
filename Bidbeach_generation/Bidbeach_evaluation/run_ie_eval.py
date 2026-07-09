@@ -13,7 +13,7 @@ import re
 
 # 选项 B: 云端 DeepSeek (如果你想对比效果，可以切换这个)
 API_BASE = "https://api.deepseek.com"
-API_KEY = "sk-e46c756f39e44fdd8899fa68cd472fda"
+API_KEY = "sk-xxxxxxxxx"
 MODEL_NAME = "deepseek-chat"
 
 # 2. 数据路径 (刚才清洗好的文本目录)

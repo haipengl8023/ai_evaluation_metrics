@@ -1,0 +1,15 @@
+streamlit
+openai
+pandas
+numpy
+plotly
+pyarrow
+chromadb
+sentence-transformers
+selenium
+webdriver-manager
+fake-useragent
+requests
+pdfplumber
+python-docx
+opencv-python

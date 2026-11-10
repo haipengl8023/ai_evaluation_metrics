@@ -1,0 +1,15 @@
+{
+  "bid_id": "AUTO_1768461273",
+  "source": "ccgp_crawler",
+  "original_title": "襄财招标采购-2026-3 2024年襄城县大豆单产提升工程项目（不见面开标)-公开招标公告",
+  "document_type": "PDF",
+  "urls": {
+    "page_url": "http://www.ccgp.gov.cn/cggg/dfgg/gkzb/202601/t20260113_26069943.htm",
+    "file_url": "https://download.ccgp.gov.cn/oss/download?uuid=e1b81e11-85ea-4fef-aa6c-9bafa3"
+  },
+  "processing_status": {
+    "downloaded": true,
+    "cleaned": false,
+    "ocr_ready": false
+  }
+}
